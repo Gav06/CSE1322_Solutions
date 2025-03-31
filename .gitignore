@@ -42,3 +42,6 @@ bin/
 .DS_Store
 
 .idea/**
+
+*.fyemus
+*.mp3
